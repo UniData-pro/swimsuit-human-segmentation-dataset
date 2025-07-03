@@ -1,0 +1,11 @@
+set_id,image_path,mask_path,gender,body_frame,have_tattoos,photo_in_the_mirror,image_resolution,mask_resolution
+1,1/image,1/mask,MALE,normal,FALSE,TRUE,1799x1799,1799x1799
+2,2/image,2/mask,MALE,normal,FALSE,TRUE,1413x1413,1413x1413
+3,3/image,3/mask,MALE,normal,FALSE,TRUE,907x907,907x907
+4,4/image,4/mask,MALE,normal,FALSE,TRUE,725x725,725x725
+5,5/image,5/mask,MALE,normal,FALSE,TRUE,907x907,907x907
+6,6/image,6/mask,FEMALE,athletic,FALSE,FALSE,1080x1350,1080x1350
+7,7/image,7/mask,FEMALE,athletic,FALSE,FALSE,1080x1349,1080x1349
+8,8/image,8/mask,FEMALE,owerweight,FALSE,FALSE,494x750,494x750
+9,9/image,9/mask,FEMALE,owerweight,FALSE,FALSE,576x960,576x960
+10,10/image,10/mask,FEMALE,normal,TRUE,FALSE,1079x1349,1079x1349
